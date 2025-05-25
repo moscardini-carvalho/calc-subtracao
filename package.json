@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "name": "calc-subtracao",
+  "version": "1.0.0",
+  "main": "index.js"
+  }
+}
+
